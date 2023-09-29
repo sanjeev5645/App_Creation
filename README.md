@@ -1,9 +1,11 @@
 # App_Creation
 
 
-*******************************************************************************************************  How to use the script   *************************************************************************************************************************
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ How to use the script   $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
-***********************************************************                1.	Install python in your machine. ( latest 3.x  preferred )                       **************************************************************************
+STEP 1.
+
+Install python in your machine. ( latest 3.x  preferred )                       
 Windows: -  https://www.digitalocean.com/community/tutorials/install-python-windows-10
 Linux: -  https://www.scaler.com/topics/python/install-python-on-linux/
  
@@ -11,7 +13,9 @@ Feel free to use any online resource to complete this step.
 
 
 
-**********************************************************              2.	Install the required libraries in the python environment that was setup in Step 1.      ******************************************************************
+STEP 2.
+
+Install the required libraries in the python environment that was setup in Step 1.
 Steps: https://packaging.python.org/en/latest/tutorials/installing-packages/ 
 
 Follow “Installing from PyPI” option. This is the simplest option. 
@@ -25,7 +29,10 @@ time
 re
 requests
 
-************************************************************                 3.	Setup the python script & execute.                                    *******************************************************************************
+
+STEP 3.
+
+Set up the python script & execute it.    
 Download/Clone the App creation code from the GitHub repository.
 https://github.com/sanjeev5645/App_Creation.git
 
@@ -89,7 +96,7 @@ Select 1 for App and Select 2 for Tier.
 Invalid argument, Please input 1 for App or 2 for Tier
 
 
-**************************************************************************************                   4.	Script Workflow and the options.                  *******************************************************************
+STEP 4.	Script Workflow and the options. 
 
 Script works in a loop when you select option 1 or 2 ( depending on the action you want to perform ).  Select any other key stroke and you would exit program.
 
@@ -238,8 +245,7 @@ Invalid argument, Please input 1 for App or 2 for Tier
 
 
 
-******************************************************************************************************   END  *******************************************************************************************************************************************
-
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$   END  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 
 
