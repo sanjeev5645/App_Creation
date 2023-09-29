@@ -73,15 +73,24 @@ Creating New token.
  Active token is : H1O3SyYroAAt5+wycwtZrA==
 Current Token is active for : 299.9986484008789 minutes
 ##############
+
+
 ********* APP WORK-FLOW *******
 Input the App Name to create.
 App10
 APP MODEL KEY is below, to be used in Tier Creation
  10000:561:6650020740672764927
 **********************
+
+
+
+
+
 Select 1 for App and Select 2 for Tier.
 2
 You are going to create a Tier.
+
+
 
 @@@@@@@@ TIER WORK-FLOW @@@@@@@@@
 Input the APP MODEL KEY.
@@ -91,6 +100,10 @@ T1
 Input the Tier filter.
 Name like TEST**
 @@@@@@@@@@@@@@@@@@@@@@
+
+
+
+
 Select 1 for App and Select 2 for Tier.
 6
 Invalid argument, Please input 1 for App or 2 for Tier
@@ -99,6 +112,9 @@ Invalid argument, Please input 1 for App or 2 for Tier
 STEP 4.	Script Workflow and the options. 
 
 The script works in a loop when you select option 1 or 2 ( depending on the action you want to perform ).  Select any other keystroke and you will exit the program.
+
+
+
 
 **********   Workflow  **********
 
@@ -110,8 +126,10 @@ You are going to create an App.
 Creating a New token.
  
  
- 
-#################
+ #################
+
+
+
  
  Active token is : dCt36jqtEMACr6kBfIewmg==
 Current Token is active for : 300 minutes
