@@ -137,7 +137,7 @@ The script works in a loop when you select option 1 or 2 ( depending on the acti
 
 **********   Workflow  **********
 
-/Users/sathishs/PycharmProjects/App_Creation/venv/bin/python /Users/sathishs/PycharmProjects/App_Creation/app_creation.py 
+#Python3 /App_Creation/app_creation.py 
 Select 1 for App and Select 2 for Tier
 1
 You are going to create an App.
